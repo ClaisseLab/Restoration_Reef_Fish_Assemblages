@@ -1,0 +1,19 @@
+﻿Module,construction_date,survey_date,construction_month,max_sub_height,survey_time,surface_conditions,estimated_vis_f,construction_group
+2A,5/11/2020,7/19/2021,May,4,11:23 AM,sunny,18,1
+2B,5/22/2020,6/7/2021,May,4,12:00 PM,cloudy/sunny,12,1
+2C,5/21/2020,6/21/2021,May,4,8:54 AM,calm/cloudy,12,1
+4D,5/28/2020,7/19/2021,May,3,10:01 AM,sunny,15,1
+4B,5/29/2020,6/28/2021,May,3,10:23 AM,cloudy/sunny,8,1
+4C,5/30/2020,6/14/2021,May,3,8:40 AM,calm/sun,18,1
+5A,6/2/2020,7/19/2021,June,3,12:14 AM,sunny,15,1
+5B,6/3/2020,6/7/2021,June,3,10:30 AM,cloudy,10,1
+5C,8/31/2020,7/12/2021,August,3,8:47 AM,cloudy,8,2
+6A,9/10/2020,7/19/2021,September,4,1:39 PM,sunny,18,2
+6C,9/1/2020,6/21/2021,September,4,10:13 AM,calm/cloudy,16,2
+6D,9/2/2020,6/14/2021,September,4,10:15 AM,calm/sun,16,2
+7A,9/11/2020,6/7/2021,September,3,1:15 PM,sunny,10,2
+7B,9/11/2020,6/21/2021,September,3,11:47 AM,sunny,15,2
+7C,9/14/2020,7/19/2021,September,3,8:45 AM,sunny,15,2
+8A,9/16/2020,6/14/2021,September,4,11:20 AM,calm/sun,12,2
+8B,9/18/2020,7/12/2021,September,4,11:37 AM,sunny,10,2
+8C,9/22/2020,6/28/2021,September,4,8:53 AM,cloudy,9,2
